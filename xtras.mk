@@ -47,12 +47,10 @@ include vendor/xtras/Navbar/Navbar.mk
 
 # Xtended packages
 PRODUCT_PACKAGES += \
-    MetroMusicPlayer \
     GalleryPrebuilt \
     Flipendo \
     TurboAdapter \
     GBoardPrebuilt \
-    ViaBrowser \
     TurboPrebuilt
 
 #End
